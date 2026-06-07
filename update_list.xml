@@ -1,6 +1,6 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <UpdateInfo>
-  <Version>1.0.1</Version>
+  <Version>1.0.2</Version>
   <Files>
     <File path="ah.emu" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/ah.emu" size="20008" />
     <File path="Arcane.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Arcane.dll" size="94208" />
