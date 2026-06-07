@@ -10,8 +10,6 @@
     <File path="msvcp100.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/msvcp100.dll" size="421200" />
     <File path="msvcr100.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/msvcr100.dll" size="770384" />
     <File path="Mu.Info" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Mu.Info" size="295832" />
-    <File path="MuArcaneLauncher.exe" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/MuArcaneLauncher.exe" size="19968" />
-    <File path="MuArcaneLauncher.exe.config" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/MuArcaneLauncher.exe.config" size="187" />
     <File path="ogg.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/ogg.dll" size="53248" />
     <File path="OpenGL32.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/OpenGL32.dll" size="173568" />
     <File path="Plugin.mu" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Plugin.mu" size="136" />
