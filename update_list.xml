@@ -8,10 +8,6 @@
   <Files>
     <File path="Arcane.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Arcane.dll" size="94208" sha256="a2943e69283700687b0dc3ac4a79d5d3439c55118a5ecdc69ec182b4860b1a88" />
     <File path="Mu.Info" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Mu.Info" size="295832" sha256="26202689a7e07c894d2535b6ff4e89b0a2780490d1cfaaeb44cb14b25f275796" />
-    <File path="Lua/QRSupportGroup.enc" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Lua/QRSupportGroup.enc" size="941" sha256="e5501ac2a3f4f6aa610851341e3379a15e4ada1bdca515006a814367d0e2b1f4" />
-    <File path="Lua/WindowName.enc" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Lua/WindowName.enc" size="983" sha256="f0a464a9f01c4487a1ea26cfb9ee7b60365902a21badaf7cf89b61b9d54e998d" />
-    <File path="Lua/System/ScriptCore.enc" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Lua/System/ScriptCore.enc" size="4875" sha256="d4526f615d6238fbf743c1809823b5ebacd88f8f870a756bfddb513f9fda4b29" />
-    <File path="Lua/System/ScriptDefines.enc" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Lua/System/ScriptDefines.enc" size="2228" sha256="7bcbdb2718781e0c39e5e9c231191a18db7e7332445e6829801b33d804b1d8c5" />
   </Files>
 </UpdateInfo>
 
