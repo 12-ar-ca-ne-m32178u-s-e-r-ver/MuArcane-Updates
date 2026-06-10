@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<UpdateInfo>
+  <Version>1.0.1</Version>
+  <Maintenance>
+    <Enabled>false</Enabled>
+    <Message>Servidor em manutenção!</Message>
+  </Maintenance>
+  <Files>
+    <File path="ah.emu" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/ah.emu" size="20008" sha256="0378591b3823354a2e1b91f712d82e63b736f2ce5fc292d4e34fef6239372d71" />
+    <File path="Main.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Main.dll" size="15001600" sha256="8d0bb73d9fe7baa6355401610548792999cd63edc19d939abe09ce67d94c5132" />
+    <File path="Main.exe" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Main.exe" size="11002211" sha256="e59d696992d0bab6f7312c7ee7ee37933454832df31fdc193a78c05ddcbf9e29" />
+    <File path="Mu.Info" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Mu.Info" size="295832" sha256="650bf7ae5cf99ba01429e56d7121a88800b49906fe718b39c55f63eaa6132634" />
+    <File path="Plugin.mu" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/Plugin.mu" size="136" sha256="6bfa8d97c728110e64f239b8e44e92df4e669452fca9e567d3ce2a0306de85ea" />
+    <File path="vorbisfile.dll" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/vorbisfile.dll" size="999424" sha256="525d5849837c0451edc855172917b94a1b48010c781ba48f620efb9f5e597055" />
+  </Files>
+</UpdateInfo>
+
