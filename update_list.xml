@@ -6,7 +6,7 @@
     <Message>Servidor em manutenÃ§Ã£o! Retorno previsto para o dia 08/06/2026 Ã s 20:00.</Message>
   </Maintenance>
   <Files>
-    <File path="teste.txt" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/teste.txt" size="0" sha256="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" />
+    <File path="teste.txt" url="https://raw.githubusercontent.com/12-ar-ca-ne-m32178u-s-e-r-ver/MuArcane-Updates/main/teste.txt" size="432" sha256="7c386edb538d62db7859df83930e3f24c325423ee5693b6fb84b4057eae7170c" />
   </Files>
 </UpdateInfo>
 
