@@ -1,0 +1,9 @@
+Windows Registry Editor Version 5.00
+
+; Remove o ID de login salvo do Mu normal
+[HKEY_CURRENT_USER\SOFTWARE\Webzen\Mu\Config]
+"ID"=-
+
+; Remove o ID de login salvo do Mu Blue (caso exista)
+[HKEY_CURRENT_USER\SOFTWARE\Webzen\Mu_Blue\Config]
+"ID"=-
