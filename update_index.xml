@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateIndex>
-  <LatestVersion>1.0.9</LatestVersion>
-  <MinimumSupportedVersion>1.0.0</MinimumSupportedVersion>
+  <LatestVersion>1.1.0</LatestVersion>
+  <MinimumSupportedVersion>1.0.9</MinimumSupportedVersion>
   <Maintenance>
     <Enabled>false</Enabled>
     <Message>Servidor em manutenção! Retorno previsto para o dia 08/06/2026 às 20:00.</Message>
