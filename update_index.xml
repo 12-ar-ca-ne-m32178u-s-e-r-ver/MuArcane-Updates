@@ -1,12 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateIndex>
-  <LatestVersion>1.0.3</LatestVersion>
+  <LatestVersion>1.0.0</LatestVersion>
   <MinimumSupportedVersion>1.0.0</MinimumSupportedVersion>
   <Maintenance>
     <Enabled>false</Enabled>
     <Message>Servidor em manutenção! Retorno previsto para o dia 08/06/2026 às 20:00.</Message>
   </Maintenance>
   <Patches>
+    <Patch version="1.0.0" manifest="patches/1.0.0/update_list.xml" />
     <Patch version="1.0.1" manifest="patches/1.0.1/update_list.xml" />
     <Patch version="1.0.2" manifest="patches/1.0.2/update_list.xml" />
     <Patch version="1.0.3" manifest="patches/1.0.3/update_list.xml" />
