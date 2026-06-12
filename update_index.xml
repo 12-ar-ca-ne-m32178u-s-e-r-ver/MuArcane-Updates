@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <UpdateIndex>
-  <LatestVersion>1.1.1</LatestVersion>
+  <LatestVersion>1.1.2</LatestVersion>
   <MinimumSupportedVersion>1.1.0</MinimumSupportedVersion>
   <Maintenance>
     <Enabled>false</Enabled>
@@ -19,5 +19,6 @@
     <Patch version="1.0.9" manifest="patches/1.0.9/update_list.xml" />
     <Patch version="1.1.0" manifest="patches/1.1.0/update_list.xml" />
     <Patch version="1.1.1" manifest="patches/1.1.1/update_list.xml" />
+    <Patch version="1.1.2" manifest="patches/1.1.2/update_list.xml" />
   </Patches>
 </UpdateIndex>
