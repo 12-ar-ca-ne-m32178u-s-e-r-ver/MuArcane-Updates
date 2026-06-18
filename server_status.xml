@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ServerStatus>
+  <Status>Online</Status>
+  <Online>true</Online>
+  <Maintenance>false</Maintenance>
+  <BlockPlay>false</BlockPlay>
+  <Message>Servidor online!</Message>
+  <Details>Pronto para jogar.</Details>
+</ServerStatus>
